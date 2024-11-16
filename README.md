@@ -24,13 +24,13 @@ As an aspiring software engineer and full-stack web developer, I am committed to
 - Proficient in Linux & Contributor to Open Source
 
 ## 🚀 Projects:
-- **Footwear E-Commerce Store**  
+- **[Footwear E-Commerce Store](https://www.footdise.live)**  
   Developed a scalable e-commerce platform using **Appwrite**, **Node.js**, and **React**. Integrated a secure payment gateway capable of handling multiple users simultaneously.
   
 - **UI Clones of Popular Websites**  
   Created UI replicas of well-known platforms like **Twitter**, **YouTube**, and **Instagram**.
 
-- **Food Delivery Website**  
+- **Food Delivery Website**
   Designed a user-friendly interface with seamless order management for an online food delivery platform.
 
 - **News Aggregator Website**  
