@@ -18,7 +18,7 @@ As an aspiring software engineer and full-stack web developer, I am committed to
 
 ### Other:
 - Basics of Computer Networking
-- Proficient in Linux & Contributor to Open Source
+- Proficient in Linux 
 
 ## 🚀 Projects:
 - **[Footwear E-Commerce Store](https://www.footdise.live)**  
