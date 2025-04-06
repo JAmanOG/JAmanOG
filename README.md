@@ -7,17 +7,14 @@ As an aspiring software engineer and full-stack web developer, I am committed to
 - I'm currently open to **collaborations** and **exciting opportunities**—feel free to connect!
 ## 💻 Technical Skills:
 ### Programming Languages:
-- **Advanced**: Python, Java, C++ (with OOP concepts and Data Structures & Algorithms)
-- **Intermediate**: HTML, CSS, JavaScript, jQuery, Tailwind CSS, Node.js, Express, React, Redux
+- **Programming Languages**: JavaScript, Python, C++ (OOPs)
+- **Web Development**: HTML, CSS, Tailwind CSS, jQuery, React, Redux, Next.js
 
 ### Backend & Databases:
-- **BaaS**: Appwrite, Firebase
-- **Database Management**: MySQL, PL/SQL, Oracle, MongoDB
-
-### Web Development:
-- **Frontend**: HTML5, CSS3, JavaScript, React, TailwindCSS
-- **Backend**: Node.js, Express
-- **Cloud Integration**: Firebase, Appwrite
+- **Backend Development**: Node.js, Express, GraphQL, Web Scraping, System Design
+- **Cloud & BaaS**: Appwrite, Firebase, Azure, Cloud Integration
+- **Database Management**: MySQL, PL/SQL, Oracle, MongoDB, Redis, PostgreSQL
+- **Networking & Communication**: WebRTC, WebSockets
 
 ### Other:
 - Basics of Computer Networking
@@ -36,8 +33,14 @@ As an aspiring software engineer and full-stack web developer, I am committed to
 - **News Aggregator Website**  
   Built a platform that aggregates articles from top media sources using APIs, providing real-time news updates.
 
-- **Chat Application**  
-  Developed a real-time communication application using **Python** sockets for seamless messaging.
+- **ART Finder Tool**
+This AI-driven tool generates reports from authentic social media platforms like Quora and Reddit, providing insights using Langflow, puppeteer and Ai model.
+
+- **Social Media Analytics Tool**
+  This tool leverages AI model and Langflow to analyze social media data Engagement and provide the insightful of its and remomendation
+
+- **Meetflow**
+  Video conferencing platform I built from the ground up using React, Node.js, WebSocket, Redis, Mediasoup, and Appwrite. This project was a deep dive into real-time communication, low-latency streaming, and efficient state management across different browsers
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JAmanOG&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
