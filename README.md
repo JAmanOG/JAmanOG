@@ -31,7 +31,6 @@ I'm **Aman Jaiswal**, a passionate and ambitious **Full Stack Web Developer** cu
 <div align="center">
 
 📧 **Email**: [hello@aman-jaiswal.tech](mailto:hello@aman-jaiswal.tech)  
-📱 **Phone**: +91 8356965884  
 📍 **Location**: Sanpada, Navi Mumbai, Maharashtra
 
 </div>
