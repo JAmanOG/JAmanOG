@@ -31,7 +31,7 @@ I'm **Aman Jaiswal**, a passionate and ambitious **Full Stack Web Developer** cu
 <div align="center">
 
 📧 **Email**: [hello@aman-jaiswal.tech](mailto:hello@aman-jaiswal.tech)  
-📍 **Location**: Sanpada, Navi Mumbai, Maharashtra
+📍 **Location**: Maharashtra
 
 </div>
 
