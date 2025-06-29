@@ -6,7 +6,7 @@
 
 </div>
 
-I'm **Aman Jaiswal**, a passionate and ambitious **Full Stack Web Developer** currently in my final year of a Bachelor's in Computer Science. I specialize in building robust, user-focused web applications with modern technologies across the stack.
+I'm **Aman Jaiswal**, a passionate and ambitious **Full Stack Developer**. I specialize in building robust, user-focused web applications with modern technologies across the stack.
 
 <div align="center">
 
