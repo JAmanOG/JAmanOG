@@ -43,6 +43,7 @@ I'm **Aman Jaiswal**, a passionate and ambitious **Full Stack Developer**. I spe
 
 ### 👨‍💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
@@ -58,8 +59,11 @@ I'm **Aman Jaiswal**, a passionate and ambitious **Full Stack Developer**. I spe
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### ☁️ Cloud & Databases
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -71,7 +75,9 @@ I'm **Aman Jaiswal**, a passionate and ambitious **Full Stack Developer**. I spe
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white)
 </div>
 
 ---
@@ -84,76 +90,183 @@ I'm **Aman Jaiswal**, a passionate and ambitious **Full Stack Developer**. I spe
 <tr>
 <td width="50%">
 
-### 🛒 [Footwear E-Commerce Store](https://www.footdise.live)
-![E-commerce](https://img.shields.io/badge/E--commerce-Live-brightgreen)
+### 🎥 Meetflow – Video Conferencing Platform  
+![Video Conference](https://img.shields.io/badge/WebRTC-Real--time-blue) ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 
-**Tech Stack:** React • Appwrite • Node.js  
-✨ Razorpay payment integration  
+**Tech Stack:** React • Node.js • WebSocket • Redis • Mediasoup • WebRTC  
+✨ Low-latency streaming with Mediasoup  
+✨ Cross-browser WebRTC compatibility  
+✨ Scalable Redis-based state management  
+✨ Authentication with Clerk integration  
+
+**🔗 [www.meetflow.in](http://www.meetflow.in)**
+
+</td>
+<td width="50%">
+
+### 🦽 BrailleQ – Real-Time Auto-Correction for QWERTY Braille  
+![Accessibility](https://img.shields.io/badge/Braille-AI-blueviolet) ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+
+**Tech Stack:** React • Next.js • Tailwind CSS • Tries Data Structure • Levenshtein Distance  
+✨ Real-time QWERTY to Braille conversion  
+✨ Advanced auto-correction algorithms  
+✨ Accessibility-first design principles  
+✨ Optimized search with Tries structure  
+
+**🔗 [braille-typing.vercel.app](https://braille-typing.vercel.app)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 FootDise – E-Commerce Platform  
+![E-commerce](https://img.shields.io/badge/E--commerce-Live-brightgreen) ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+
+**Tech Stack:** React • Appwrite • Node.js • Express.js • Razorpay  
+✨ Secure Razorpay payment integration  
+✨ Multi-user concurrent shopping  
 ✨ Real-time inventory management  
-✨ Multi-user concurrency support
+✨ Comprehensive product catalog  
+
+**🔗 [www.footdise.live](http://www.footdise.live)**
 
 </td>
 <td width="50%">
 
-### 🎥 Meetflow - Video Conferencing
-![Video Conference](https://img.shields.io/badge/WebRTC-Real--time-blue)
+### 🌾 Farmer Connect App – Agricultural Marketplace  
+![AgriTech](https://img.shields.io/badge/Farmer-App-success) ![Status](https://img.shields.io/badge/Status-Mobile_App-orange)
 
-**Tech Stack:** React • Node.js • WebSocket • Redis  
-✨ Low-latency streaming  
-✨ Mediasoup integration  
-✨ Scalable architecture
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 Social Media Analytics Tool
-![Analytics](https://img.shields.io/badge/AI--Powered-Analytics-orange)
-
-**Tech Stack:** Langflow • AI Models  
-✨ Engagement analysis  
-✨ Actionable insights  
-✨ Performance optimization
-
-</td>
-<td width="50%">
-
-### 🔍 ART Finder Tool
-![Web Scraping](https://img.shields.io/badge/Web-Scraping-red)
-
-**Tech Stack:** Puppeteer • Langflow  
-✨ Multi-platform scanning  
-✨ Sentiment analysis  
-✨ Contextual reporting
+**Tech Stack:** React Native • Expo • Appwrite • WebSocket • Tailwind CSS  
+✨ Direct farmer-to-consumer marketplace  
+✨ Real-time order management system  
+✨ Integrated chat for buyer-seller communication  
+✨ Location-based market discovery  
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎨 UI Clone Collection
-![UI Clone](https://img.shields.io/badge/UI-Clones-purple)
+### 📈 BelieveScreener – Solana Token Analytics  
+![Crypto](https://img.shields.io/badge/Solana-Screener-blue) ![Status](https://img.shields.io/badge/Status-Open_Source-yellow)
 
-**Platforms:** Twitter • YouTube • Instagram  
-✨ Pixel-perfect design  
-✨ Responsive layouts  
-✨ Modern CSS techniques
+**Tech Stack:** React Native • Node.js • Socket.IO • Puppeteer • Multiple Crypto APIs  
+✨ Real-time Solana token discovery  
+✨ Advanced filtering and analytics dashboard  
+✨ Live price updates with Socket.IO  
+✨ Mobile-optimized trading interface  
+
+**🔗 [GitHub Repository](https://github.com/JAmanOG/believe-screener)**
 
 </td>
 <td width="50%">
 
-### 💬 ChatRoulette Clone
-![Real-time Chat](https://img.shields.io/badge/P2P-Video_Chat-green)
+### 📄 PDF Generation through Templates  
+![PDF](https://img.shields.io/badge/PDF-Automation-informational) ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 
-**Tech Stack:** WebRTC • WebSockets  
-✨ Anonymous connections  
-✨ Secure P2P streams  
-✨ Scalable architecture
+**Tech Stack:** React • Next.js • Tailwind CSS • react-pdf.js • PDF-lib  
+✨ AcroForm PDF template customization  
+✨ Interactive PDF form field editing  
+✨ Dynamic document generation  
+✨ Browser-based PDF manipulation  
+
+**🔗 [pdf-generation-through-template.vercel.app](https://pdf-generation-through-template.vercel.app)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏆 Code Contest Tracker  
+![Competitive Programming](https://img.shields.io/badge/CP-Contest_Tracker-critical) ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+
+**Tech Stack:** React.js • Tailwind CSS • Node.js • Express • API Integration  
+✨ Multi-platform contest aggregation  
+✨ Real-time contest countdown timers  
+✨ Platform-specific filtering (Codeforces, LeetCode, etc.)  
+✨ Upcoming contest notifications  
+
+**🔗 [codecontesttracker.vercel.app](https://codecontesttracker.vercel.app)**
+
+</td>
+<td width="50%">
+
+### 💬 ChatRoulette – Anonymous Video Chat  
+![Real-time Chat](https://img.shields.io/badge/P2P-Video_Chat-green) ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+
+**Tech Stack:** React • Node.js • Socket.io • WebRTC • Express.js  
+✨ Anonymous peer-to-peer video chat  
+✨ Real-time text messaging  
+✨ Secure WebRTC connections  
+✨ Random user matching algorithm  
+
+**🔗 [Live Demo](https://zealous-glacier-06f62c600.4.azurestaticapps.net)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎓 Teacher Management System  
+![EdTech](https://img.shields.io/badge/EdTech-Teacher_App-lightgrey) ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS • Prisma • PostgreSQL • Zod  
+✨ Complete teacher and student management  
+✨ Interactive scheduling system  
+✨ Grade and attendance tracking  
+✨ Data visualization with ReChart  
+
+**🔗 [teacher-management-task.vercel.app](https://teacher-management-task.vercel.app)**
+
+</td>
+<td width="50%">
+
+### 🖥️ GPTHarvester – Desktop Automation Tool  
+![LLM](https://img.shields.io/badge/LLM-Context--Aware-ff69b4) ![Status](https://img.shields.io/badge/Status-Desktop_App-purple)
+
+**Tech Stack:** Electron.js • Node.js • React • Puppeteer • Express.js  
+✨ Automated ChatGPT interaction workflows  
+✨ Response collection and organization  
+✨ Web scraping automation with Puppeteer  
+✨ Cross-platform desktop compatibility  
+
+**🔗 [Download Release](https://github.com/JAmanOG/GPTHarvester--ChatGPT-Automation-and-Document-Generator/releases/tag/GPTHarvester.v1.0.0)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 UI Clones – Design Replications  
+![UI/UX](https://img.shields.io/badge/UI-Clones-orange) ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+
+**Tech Stack:** React • Tailwind CSS  
+✨ Pixel-perfect design replications  
+✨ Responsive layout implementations  
+✨ Modern CSS techniques  
+✨ Component-based architecture  
+
+**🔗 [fashionstreets.netlify.app](https://fashionstreets.netlify.app)**
+
+</td>
+<td width="50%">
+
+### ✅ Todo App – Task Management  
+![Basic Project](https://img.shields.io/badge/First-React_Project-red) ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+
+**Tech Stack:** React • Tailwind CSS  
+✨ Create, read, update, delete tasks  
+✨ Local storage persistence  
+✨ Clean, intuitive interface  
+✨ Task completion tracking  
+
+**🔗 [todotaskaj.netlify.app](https://todotaskaj.netlify.app)**
 
 </td>
 </tr>
 </table>
+
 
 </div>
 
